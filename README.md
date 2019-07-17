@@ -13,6 +13,7 @@ arduino compatible embedded microSD data logger (2018)
 - Size and pin pitch compatible with UP-204GSR Universal PCB
 - microSD hinge socket 
 - MPU-9250
+- MS5611  Baromater
 - RX8900 RealTime Clock (TCXO) (Backup Battery Option)
 - 3.3V I2C bus, 5V UART,SPI, ADC/GPIO 
 
@@ -36,3 +37,8 @@ arduino compatible embedded microSD data logger (2018)
 - Arduino 1.0.6
 - Sanguino bootloader
 - SDfatlib
+
+## Project Status ##
+
+- end of life (EOL)
+ 
